@@ -1,0 +1,7 @@
+[package]
+name = "four"
+version = "0.1.0"
+authors = ["Olle Kvarnström <olle+git@iix.se>"]
+
+[dependencies]
+regex = "1"
